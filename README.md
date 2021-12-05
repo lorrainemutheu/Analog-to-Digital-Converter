@@ -2,7 +2,7 @@
 Use of ADC in AVR microcontrollers
 
 ## Introduction
-The program was written to demonstrate the working of Analog to Digital Converters in AVR microcontrollers. A light dependent resistor (LDR) was used at the input of the ADC port.
+The program is written to demonstrate the working of Analog to Digital Converters in AVR microcontrollers. A light dependent resistor (LDR) is used at the input of the ADC port.
 The resistance of the LDR is inversly proportional to the intensity of light. As the intensity of light changes, different LEDs light depending on the intensity. Also, more light
 results in less LEDs being switched on and vice versa. The program is used to mimic the operation of lighting controls for street lamps.
 
@@ -22,7 +22,7 @@ results in less LEDs being switched on and vice versa. The program is used to mi
 * button (for reset)
 * light dependent resistor (LDR)
 
-## Launch
+## Setup
 When using Arduino IDE with Atmega328pu microcontroller ensure that under Tools menu the following are selected before uploading:
 * Board: "Arduino Nano"
 * Processor: "ATmega328P(Old Bootloader)"
