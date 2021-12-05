@@ -29,6 +29,4 @@ When using Arduino IDE with Atmega328pu microcontroller ensure that under Tools 
 * Port: (choose appropriate port in which USB to Serial Converter is connected)
 
 ## Illustrations
-<div align="center">
-  <a href="https://drive.google.com/file/d/1-A1Ns_NN1Rjx8O30CO4Nim65amHZVZRz/view?usp=sharing"><img src="https://drive.google.com/file/d/1-A1Ns_NN1Rjx8O30CO4Nim65amHZVZRz/view?usp=sharing" alt="IMAGE ALT TEXT"></a>
-</div>
+<a href="https://drive.google.com/file/d/1-A1Ns_NN1Rjx8O30CO4Nim65amHZVZRz/view?usp=sharing" title="Video">Video Illustration</a>
